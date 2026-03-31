@@ -1,0 +1,10 @@
+# KiCad backup and cache files
+*-backup/
+*.cache
+*.dcm
+*.lib
+*.net
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_wks
