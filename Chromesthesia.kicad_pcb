@@ -967,7 +967,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D226"
-			(at -3.25 0 0)
+			(at -4.735 -1.4575 0)
 			(layer "F.SilkS")
 			(uuid "da4f8b24-93de-40ce-b1c8-4a898353ee21")
 			(effects
@@ -1378,7 +1378,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C178"
-			(at 0 -1.43 90)
+			(at -0.2925 -1.43 90)
 			(layer "F.SilkS")
 			(uuid "f3285286-1803-44a4-8668-20d8e7f62656")
 			(effects
@@ -2635,7 +2635,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D242"
-			(at -3.275 0 0)
+			(at -4.835 -1.2275 0)
 			(layer "F.SilkS")
 			(uuid "a8c0569c-0c31-4bd1-b86d-1f739f08ca0a")
 			(effects
@@ -3046,7 +3046,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D251"
-			(at -3.75 0 0)
+			(at -4.765 -1.2225 0)
 			(layer "F.SilkS")
 			(uuid "fe6bdbe5-f580-4625-bdfe-a64fbe3ba7d5")
 			(effects
@@ -3457,7 +3457,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D271"
-			(at -3.775 0 0)
+			(at -4.39 0.04 90)
 			(layer "F.SilkS")
 			(uuid "237321bf-34a7-48fc-879a-86ab4f39f18d")
 			(effects
@@ -4009,7 +4009,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C146"
-			(at 0 -1.43 90)
+			(at -0.215 -1.43 90)
 			(layer "F.SilkS")
 			(uuid "1c87a4a4-b86f-4fda-8ae9-bf2bb5b328e7")
 			(effects
@@ -4291,7 +4291,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C135"
-			(at 0.15 -1.425 90)
+			(at 0.3525 -1.435 90)
 			(layer "F.SilkS")
 			(uuid "392c920e-c763-439e-b2e5-534dad0d7e4b")
 			(effects
@@ -4843,7 +4843,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C150"
-			(at 0 -1.43 90)
+			(at -0.205 -1.43 90)
 			(layer "F.SilkS")
 			(uuid "406c9337-fa26-43a3-a0c6-08695cc3bf72")
 			(effects
@@ -5254,7 +5254,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D142"
-			(at -4.955 -1.375 0)
+			(at -4.435 -0.35 90)
 			(layer "F.SilkS")
 			(uuid "a8e2b120-47d4-437a-b03f-958b553849b0")
 			(effects
@@ -5524,7 +5524,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C279"
-			(at -0.15 1.395 90)
+			(at -0.3525 1.405 90)
 			(layer "F.SilkS")
 			(uuid "3c07f94a-4ebd-4654-95dd-29d847986ed3")
 			(effects
@@ -5947,7 +5947,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D158"
-			(at -4.345 -0.845 0)
+			(at -4.85 -0.89 0)
 			(layer "F.SilkS")
 			(uuid "176bf8a7-741f-4e01-b7aa-3468b1a24660")
 			(effects
@@ -6628,7 +6628,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D144"
-			(at -4.955 -1.375 0)
+			(at -4.475 -0.265 90)
 			(layer "F.SilkS")
 			(uuid "b5860d00-cc4d-4975-9ab9-911c6fe341d1")
 			(effects
@@ -6898,7 +6898,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D171"
-			(at -3.775 0 0)
+			(at -4.795 -1.345 0)
 			(layer "F.SilkS")
 			(uuid "51283762-c56d-4b9f-b7c5-f87eca145c86")
 			(effects
@@ -7168,7 +7168,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D253"
-			(at -3.75 0 0)
+			(at -4.765 -1.2225 0)
 			(layer "F.SilkS")
 			(uuid "a2055611-3496-468a-a628-d675def8d8e8")
 			(effects
@@ -7990,7 +7990,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D184"
-			(at -3.3 0 0)
+			(at -4.82 -0.985 0)
 			(layer "F.SilkS")
 			(uuid "5e414d35-6734-4851-9e04-9ebc4a87857f")
 			(effects
@@ -8812,7 +8812,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D175"
-			(at -3.775 0 0)
+			(at -4.795 -1.345 0)
 			(layer "F.SilkS")
 			(uuid "de034aee-60e5-4d66-935c-19813ca949a2")
 			(effects
@@ -10726,7 +10726,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D269"
-			(at -3.775 0 0)
+			(at -4.37 0.005 90)
 			(layer "F.SilkS")
 			(uuid "0f0bdbfb-a215-4335-bf6d-d7294fb0708d")
 			(effects
@@ -11560,7 +11560,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D164"
-			(at -4.37 -0.845 0)
+			(at -4.875 -0.89 0)
 			(layer "F.SilkS")
 			(uuid "8f316473-c4a8-4037-abe1-ada8f3e68b67")
 			(effects
@@ -11830,7 +11830,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D211"
-			(at -3.25 0 0)
+			(at -4.765 -1.24 0)
 			(layer "F.SilkS")
 			(uuid "c8342ab2-6b52-42d5-8d04-a5b8d7c7a955")
 			(effects
@@ -12241,7 +12241,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C174"
-			(at 0 -1.43 90)
+			(at -0.205 -1.43 90)
 			(layer "F.SilkS")
 			(uuid "6a287bd6-733c-4f89-a92b-fece6bd0a71d")
 			(effects
@@ -12793,7 +12793,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C148"
-			(at 0 -1.43 90)
+			(at -0.1925 -1.425 90)
 			(layer "F.SilkS")
 			(uuid "cd819ab0-102c-425f-884e-16729de56fc1")
 			(effects
@@ -12934,7 +12934,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D228"
-			(at -3.275 0 0)
+			(at -4.76 -1.4575 0)
 			(layer "F.SilkS")
 			(uuid "eeb7dfa9-26fb-490e-92a5-ebfc3c351c0e")
 			(effects
@@ -13897,7 +13897,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D266"
-			(at -3.275 0 0)
+			(at -4.39 0.19 90)
 			(layer "F.SilkS")
 			(uuid "3508eeac-7c92-4bb9-b3f8-1ba9fe843f0d")
 			(effects
@@ -14437,7 +14437,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D209"
-			(at -3.775 0 0)
+			(at -4.865 -0.955 0)
 			(layer "F.SilkS")
 			(uuid "d4ea37a3-1c76-4afb-b91c-92b6040e3c27")
 			(effects
@@ -14707,7 +14707,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D135"
-			(at -5.405 -1.375 0)
+			(at -4.535 -0.37 90)
 			(layer "F.SilkS")
 			(uuid "7ebbdbc8-1ba3-4c89-9c56-31cee44ce35f")
 			(effects
@@ -15259,7 +15259,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D250"
-			(at -3.25 0 0)
+			(at -4.81 -1.2275 0)
 			(layer "F.SilkS")
 			(uuid "d81c389e-d5ac-4aee-8d29-2e8f1ddda69c")
 			(effects
@@ -15811,7 +15811,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C204"
-			(at 0 -1.43 90)
+			(at -0.255 -1.44 90)
 			(layer "F.SilkS")
 			(uuid "3a69c0a3-a719-4e4c-98b1-66256a2069ee")
 			(effects
@@ -16222,7 +16222,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D268"
-			(at -3.275 0 0)
+			(at -4.41 0.055 90)
 			(layer "F.SilkS")
 			(uuid "5e816389-b3d7-44d4-bd30-96276d3da56f")
 			(effects
@@ -16492,7 +16492,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D124"
-			(at -4.93 -1.375 0)
+			(at -4.475 -0.035 90)
 			(layer "F.SilkS")
 			(uuid "ca7afedf-a1d2-4f78-ab3d-3ddc9ecd5a76")
 			(effects
@@ -16762,7 +16762,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D257"
-			(at -3.775 0 0)
+			(at -4.79 -1.2225 0)
 			(layer "F.SilkS")
 			(uuid "0b70a30b-6188-418e-8b75-e42b3ced096f")
 			(effects
@@ -17455,7 +17455,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D213"
-			(at -3.3 0 0)
+			(at -4.815 -1.24 0)
 			(layer "F.SilkS")
 			(uuid "f9731828-5ce4-4f89-bd4c-81eaf166caef")
 			(effects
@@ -18136,7 +18136,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D272"
-			(at -3.25 0 0)
+			(at -4.31 -0.065 90)
 			(layer "F.SilkS")
 			(uuid "cf856494-5caa-4a64-8c06-fa32b54184b0")
 			(effects
@@ -19228,7 +19228,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D162"
-			(at -4.37 -0.845 0)
+			(at -4.875 -0.89 0)
 			(layer "F.SilkS")
 			(uuid "bf70bc73-ad4f-42d4-bcc3-8a6dda74c9ff")
 			(effects
@@ -19768,7 +19768,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C259"
-			(at -0.15 1.395 90)
+			(at -0.3 1.385 90)
 			(layer "F.SilkS")
 			(uuid "f52a224d-68dc-4e91-be12-cecb20582a58")
 			(effects
@@ -20860,7 +20860,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D178"
-			(at -3.25 0 0)
+			(at -4.77 -0.985 0)
 			(layer "F.SilkS")
 			(uuid "41d75773-3747-4899-a996-3ede1a210710")
 			(effects
@@ -21271,7 +21271,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D195"
-			(at -3.775 0 0)
+			(at -4.865 -0.955 0)
 			(layer "F.SilkS")
 			(uuid "68233d37-92b4-41d4-95f2-292858e45aad")
 			(effects
@@ -21541,7 +21541,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D286"
-			(at -3.3 0 0)
+			(at -4.41 -0.09 90)
 			(layer "F.SilkS")
 			(uuid "b7ba0657-29b0-4b10-a67b-02bc9b8b41af")
 			(effects
@@ -22081,7 +22081,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D134"
-			(at -4.93 -1.375 0)
+			(at -4.595 -0.155 90)
 			(layer "F.SilkS")
 			(uuid "904e254f-2dd3-4bef-9e2c-1dfca26679d0")
 			(effects
@@ -22351,7 +22351,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D133"
-			(at -5.405 -1.375 0)
+			(at -4.565 -0.115 90)
 			(layer "F.SilkS")
 			(uuid "7377d6f7-5328-4610-a2ac-c597163fafc5")
 			(effects
@@ -22762,7 +22762,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D126"
-			(at -4.93 -1.375 0)
+			(at -4.435 -0.03 90)
 			(layer "F.SilkS")
 			(uuid "d4bffc06-e134-4369-8eca-1476f8bb0131")
 			(effects
@@ -24805,7 +24805,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D148"
-			(at -4.345 -0.845 0)
+			(at -4.85 -0.89 0)
 			(layer "F.SilkS")
 			(uuid "6ab011f3-4e99-4ee8-8832-e4e28a2df0dc")
 			(effects
@@ -25075,7 +25075,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D140"
-			(at -4.955 -1.375 0)
+			(at -4.475 -0.395 90)
 			(layer "F.SilkS")
 			(uuid "308b76c9-e2c5-427a-afd5-e17996d40f62")
 			(effects
@@ -25345,7 +25345,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C163"
-			(at -0.15 1.395 90)
+			(at -0.3 1.385 90)
 			(layer "F.SilkS")
 			(uuid "26423b85-a3ea-422f-bf60-fc3d1fff6b71")
 			(effects
@@ -25897,7 +25897,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D230"
-			(at -3.275 0 0)
+			(at -4.76 -1.4575 0)
 			(layer "F.SilkS")
 			(uuid "c1780453-96e9-42b2-a98b-8568ec9164eb")
 			(effects
@@ -26167,7 +26167,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D199"
-			(at -3.775 0 0)
+			(at -4.865 -0.955 0)
 			(layer "F.SilkS")
 			(uuid "d042521c-9f10-40ca-9672-530c2bab8689")
 			(effects
@@ -26578,7 +26578,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D143"
-			(at -4.955 -1.375 0)
+			(at -4.435 -0.1 90)
 			(layer "F.SilkS")
 			(uuid "23611c15-9b5e-4c54-90e8-c0160e0a3314")
 			(effects
@@ -26848,7 +26848,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D182"
-			(at -3.275 0 0)
+			(at -4.795 -0.985 0)
 			(layer "F.SilkS")
 			(uuid "0c846b14-58d0-45a2-99bf-f25b4ad022eb")
 			(effects
@@ -27799,7 +27799,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D136"
-			(at -4.955 -1.375 0)
+			(at -4.515 -0.205 90)
 			(layer "F.SilkS")
 			(uuid "d4088beb-9791-458d-a53c-67b5ba0ab9ca")
 			(effects
@@ -28633,7 +28633,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D132"
-			(at -4.93 -1.375 0)
+			(at -4.475 -0.23 90)
 			(layer "F.SilkS")
 			(uuid "13ba3079-5f08-496b-89b8-541635e3948c")
 			(effects
@@ -29044,7 +29044,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D128"
-			(at -4.905 -1.375 0)
+			(at -4.475 -0.145 90)
 			(layer "F.SilkS")
 			(uuid "0b68cfd9-d549-428d-a299-99ae79277bd4")
 			(effects
@@ -29878,7 +29878,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D273"
-			(at -3.775 0 0)
+			(at -4.41 0.015 90)
 			(layer "F.SilkS")
 			(uuid "f8773066-e71f-4b27-93c2-b9809d1c21f9")
 			(effects
@@ -30700,7 +30700,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D174"
-			(at -3.275 0 0)
+			(at -4.795 -0.985 0)
 			(layer "F.SilkS")
 			(uuid "b86802a8-a5c5-43fe-b9cf-a04f349b7e10")
 			(effects
@@ -31381,7 +31381,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C183"
-			(at -0.15 1.395 90)
+			(at -0.3525 1.405 90)
 			(layer "F.SilkS")
 			(uuid "97a71039-ad71-4385-8b4e-61abbe06776c")
 			(effects
@@ -32203,7 +32203,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C283"
-			(at -0.15 1.395 90)
+			(at -0.3 1.385 90)
 			(layer "F.SilkS")
 			(uuid "972c59a2-8931-4b1c-a461-03459bd66f7e")
 			(effects
@@ -32908,7 +32908,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D212"
-			(at -3.3 0 0)
+			(at -4.815 -1.24 0)
 			(layer "F.SilkS")
 			(uuid "de4c8a14-115c-4013-94cf-68924222e707")
 			(effects
@@ -33178,7 +33178,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D225"
-			(at -3.775 0 0)
+			(at -4.755 -1.3025 0)
 			(layer "F.SilkS")
 			(uuid "7b2a9cf1-8dcf-4b6d-a47b-cb8cf8a7a578")
 			(effects
@@ -33859,7 +33859,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D189"
-			(at -3.3 0 0)
+			(at -4.82 -0.985 0)
 			(layer "F.SilkS")
 			(uuid "e16e7549-97da-428f-845a-eb11b07e3700")
 			(effects
@@ -34270,7 +34270,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D207"
-			(at -3.75 0 0)
+			(at -4.84 -0.955 0)
 			(layer "F.SilkS")
 			(uuid "f28432dc-5fc2-414f-8c9e-14c33e1e6e4d")
 			(effects
@@ -34681,7 +34681,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D125"
-			(at -5.43 -1.375 0)
+			(at -4.535 -0.235 90)
 			(layer "F.SilkS")
 			(uuid "d1eeffa8-87f5-4c89-a521-fec2dce77f84")
 			(effects
@@ -34951,7 +34951,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D241"
-			(at -3.775 0 0)
+			(at -4.79 -1.2225 0)
 			(layer "F.SilkS")
 			(uuid "bdd0075b-bb92-4fc3-ba1b-73c4928b24ed")
 			(effects
@@ -35362,7 +35362,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D215"
-			(at -3.3 0 0)
+			(at -4.815 -1.24 0)
 			(layer "F.SilkS")
 			(uuid "6bdbd44f-19da-4bba-abb3-eb9bc643cd05")
 			(effects
@@ -35632,7 +35632,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D281"
-			(at -3.775 0 0)
+			(at -4.39 0.005 90)
 			(layer "F.SilkS")
 			(uuid "7e962a56-1953-4e30-89f9-0a172f918854")
 			(effects
@@ -35902,7 +35902,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C104"
-			(at 0 1.4 90)
+			(at 0.275 1.425 90)
 			(layer "F.SilkS")
 			(uuid "638deb04-aa70-4de0-b448-6054095cb5e1")
 			(effects
@@ -36043,7 +36043,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D248"
-			(at -3.25 0 0)
+			(at -4.81 -1.2275 0)
 			(layer "F.SilkS")
 			(uuid "459d48f3-48c1-41e5-8f4c-13cbb2d2f04e")
 			(effects
@@ -36595,7 +36595,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D138"
-			(at -4.955 -1.375 0)
+			(at -4.515 -0.24 90)
 			(layer "F.SilkS")
 			(uuid "cf137900-2e0d-41f8-93fe-f8c8f2876935")
 			(effects
@@ -37147,7 +37147,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C276"
-			(at 0 -1.43 90)
+			(at -0.255 -1.44 90)
 			(layer "F.SilkS")
 			(uuid "c79c6c73-a2f4-4274-9fd7-62cf053a3e39")
 			(effects
@@ -37699,7 +37699,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C220"
-			(at 0 -1.43 90)
+			(at -0.1925 -1.425 90)
 			(layer "F.SilkS")
 			(uuid "07fad33c-9150-4a4c-bc11-55459a6a3ce0")
 			(effects
@@ -37840,7 +37840,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D156"
-			(at -4.345 -0.845 0)
+			(at -4.85 -0.89 0)
 			(layer "F.SilkS")
 			(uuid "707650c9-700e-406c-aa27-6b25de425dbc")
 			(effects
@@ -38251,7 +38251,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D283"
-			(at -3.25 0 0)
+			(at -4.41 -0.09 90)
 			(layer "F.SilkS")
 			(uuid "7d0315ce-9b9f-4196-b29f-82f5f52a552b")
 			(effects
@@ -38521,7 +38521,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D194"
-			(at -3.275 0 0)
+			(at -4.79 -1.24 0)
 			(layer "F.SilkS")
 			(uuid "4b4a7f0d-bed6-44dd-9e30-38364ce0b8da")
 			(effects
@@ -39895,7 +39895,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C263"
-			(at -0.15 1.395 90)
+			(at -0.3225 1.41 90)
 			(layer "F.SilkS")
 			(uuid "2a275d99-19eb-4ff3-9bdb-8ee920443201")
 			(effects
@@ -40588,7 +40588,7 @@
 		(descr "Mounting Hole 2.2mm, M2, no annular, generated by kicad-footprint-generator mountinghole.py")
 		(tags "mountinghole M2")
 		(property "Reference" "H1"
-			(at 0 -3.15 0)
+			(at -1.545 -3.01 0)
 			(layer "F.SilkS")
 			(uuid "2d901bfd-0b4c-4b64-aaf3-69d6cf53fa69")
 			(effects
@@ -40687,7 +40687,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C176"
-			(at 0 -1.43 90)
+			(at -0.275 -1.455 90)
 			(layer "F.SilkS")
 			(uuid "8db75cf3-18b8-4bc0-af58-89985a978377")
 			(effects
@@ -41239,7 +41239,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D260"
-			(at -3.3 0 0)
+			(at -4.86 -1.2275 0)
 			(layer "F.SilkS")
 			(uuid "340edb34-dce5-49c0-a0ee-3a27d7ca342a")
 			(effects
@@ -42331,7 +42331,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C196"
-			(at 0 -1.43 90)
+			(at -0.1925 -1.425 90)
 			(layer "F.SilkS")
 			(uuid "5273e6ad-650b-4f0b-aae5-d4c5ff5388f7")
 			(effects
@@ -42613,7 +42613,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C130"
-			(at 0 1.4 90)
+			(at 0.2925 1.4 90)
 			(layer "F.SilkS")
 			(uuid "a5abc3ff-0361-425c-82da-11b059965a69")
 			(effects
@@ -43558,7 +43558,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D244"
-			(at -3.275 0 0)
+			(at -4.835 -1.2275 0)
 			(layer "F.SilkS")
 			(uuid "397416db-1770-4a8f-9142-2705e9bfd807")
 			(effects
@@ -43828,7 +43828,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D280"
-			(at -3.3 0 0)
+			(at -4.42 -0.055 90)
 			(layer "F.SilkS")
 			(uuid "11835677-5da3-4eaa-9968-127dd915d347")
 			(effects
@@ -44509,7 +44509,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D255"
-			(at -3.75 0 0)
+			(at -4.765 -1.2225 0)
 			(layer "F.SilkS")
 			(uuid "883f771c-f748-4ead-b44f-870d37fd8140")
 			(effects
@@ -44779,7 +44779,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D224"
-			(at -3.25 0 0)
+			(at -4.735 -1.4575 0)
 			(layer "F.SilkS")
 			(uuid "3bedc0ec-1734-4ca5-923e-518fd6fb3571")
 			(effects
@@ -45319,7 +45319,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D274"
-			(at -3.25 0 0)
+			(at -4.37 0 90)
 			(layer "F.SilkS")
 			(uuid "d8df6b2a-e1f6-4853-8099-7f03974b9685")
 			(effects
@@ -45589,7 +45589,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D202"
-			(at -3.25 0 0)
+			(at -4.765 -1.24 0)
 			(layer "F.SilkS")
 			(uuid "82072ad7-7b32-4eb4-bee5-278d2f55ef8c")
 			(effects
@@ -45859,7 +45859,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C156"
-			(at 0 -1.43 90)
+			(at -0.255 -1.44 90)
 			(layer "F.SilkS")
 			(uuid "13dbc82a-a633-4d76-a440-ae74f7c794b9")
 			(effects
@@ -46270,7 +46270,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D177"
-			(at -3.775 0 0)
+			(at -4.795 -1.345 0)
 			(layer "F.SilkS")
 			(uuid "79c27356-c368-4f73-8de0-1728f3960b70")
 			(effects
@@ -47221,7 +47221,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D201"
-			(at -3.775 0 180)
+			(at -4.865 -0.955 180)
 			(layer "F.SilkS")
 			(uuid "3a276b5b-6111-4b3d-97b3-b49247bef100")
 			(effects
@@ -47902,7 +47902,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D214"
-			(at -3.3 0 0)
+			(at -4.815 -1.24 0)
 			(layer "F.SilkS")
 			(uuid "c716c5bb-6391-404b-84d8-ee757e0d921d")
 			(effects
@@ -48172,7 +48172,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D282"
-			(at -3.3 0 0)
+			(at -4.42 -0.03 90)
 			(layer "F.SilkS")
 			(uuid "2c75276b-a2eb-419d-a9f4-12b39a4ea88d")
 			(effects
@@ -49945,7 +49945,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D129"
-			(at -5.43 -1.375 0)
+			(at -4.535 -0.035 90)
 			(layer "F.SilkS")
 			(uuid "f262c27a-6ccf-4762-a124-122320da45a6")
 			(effects
@@ -50215,7 +50215,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D233"
-			(at -3.775 0 0)
+			(at -4.755 -1.3025 0)
 			(layer "F.SilkS")
 			(uuid "30b02c6b-3906-4a8d-8385-7f14bfbe0161")
 			(effects
@@ -51307,7 +51307,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D254"
-			(at -3.275 0 0)
+			(at -4.835 -1.2275 0)
 			(layer "F.SilkS")
 			(uuid "69626fe3-7d89-4b4b-bc0a-a778227c1521")
 			(effects
@@ -52000,7 +52000,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D192"
-			(at -3.3 0 0)
+			(at -4.82 -0.985 0)
 			(layer "F.SilkS")
 			(uuid "310c0d8f-2f37-4c8e-961f-2d52d31c7de8")
 			(effects
@@ -52411,7 +52411,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D170"
-			(at -3.275 0 0)
+			(at -4.795 -0.985 0)
 			(layer "F.SilkS")
 			(uuid "99019e24-2da6-42f2-93cf-198d43c6ec32")
 			(effects
@@ -53797,7 +53797,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D193"
-			(at -3.775 0 0)
+			(at -4.865 -0.955 0)
 			(layer "F.SilkS")
 			(uuid "8cee42f5-3ee0-410b-800e-3efa75816cc0")
 			(effects
@@ -54067,7 +54067,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D277"
-			(at -3.75 0 0)
+			(at -4.37 -0.015 90)
 			(layer "F.SilkS")
 			(uuid "ca0ad280-0d9d-4d9e-b9f4-17696ab08594")
 			(effects
@@ -54337,7 +54337,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D285"
-			(at -3.3 0 0)
+			(at -4.39 -0.005 90)
 			(layer "F.SilkS")
 			(uuid "60943aae-fc9a-4c3b-9158-2daaf2a73141")
 			(effects
@@ -55159,7 +55159,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D180"
-			(at -3.275 0 0)
+			(at -4.795 -0.985 0)
 			(layer "F.SilkS")
 			(uuid "f6fca0ac-30be-4402-b87a-1c0c741064f1")
 			(effects
@@ -55429,7 +55429,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D198"
-			(at -3.275 0 0)
+			(at -4.79 -1.24 0)
 			(layer "F.SilkS")
 			(uuid "5d74f1ba-9769-4732-9e5c-bcec52133f98")
 			(effects
@@ -56251,7 +56251,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C119"
-			(at 0.15 -1.425 90)
+			(at 0.3225 -1.44 90)
 			(layer "F.SilkS")
 			(uuid "4634c0ad-04de-4a6f-a182-9bf6d48aed0f")
 			(effects
@@ -56533,7 +56533,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D287"
-			(at -3.3 0 0)
+			(at -4.42 0.01 90)
 			(layer "F.SilkS")
 			(uuid "ecf70c9a-dc1b-4c69-b6f2-77aa00d2b0a5")
 			(effects
@@ -56803,7 +56803,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D131"
-			(at -5.405 -1.375 0)
+			(at -4.485 0.15 90)
 			(layer "F.SilkS")
 			(uuid "90d0cc50-a2c1-4622-9bde-3af6d638073e")
 			(effects
@@ -57073,7 +57073,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D221"
-			(at -3.775 0 0)
+			(at -4.755 -1.3025 0)
 			(layer "F.SilkS")
 			(uuid "4a8e1e7c-d407-4707-a382-1d68df96ac83")
 			(effects
@@ -57625,7 +57625,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D210"
-			(at -3.3 0 0)
+			(at -4.815 -1.24 0)
 			(layer "F.SilkS")
 			(uuid "a2c6516b-ab6f-435c-b2ff-d5883d01fd2d")
 			(effects
@@ -58177,7 +58177,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D186"
-			(at -3.3 0 0)
+			(at -4.82 -0.985 0)
 			(layer "F.SilkS")
 			(uuid "54fddda3-6acb-4f31-84f8-0716bb37da69")
 			(effects
@@ -58987,7 +58987,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D234"
-			(at -3.3 0 0)
+			(at -4.785 -1.4575 0)
 			(layer "F.SilkS")
 			(uuid "9241be7b-e45c-4a44-ad47-4488a8204749")
 			(effects
@@ -59809,7 +59809,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D220"
-			(at -3.275 0 0)
+			(at -4.76 -1.4575 0)
 			(layer "F.SilkS")
 			(uuid "e7745024-edbb-465e-8a68-2a0a1f2aca0c")
 			(effects
@@ -60490,7 +60490,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D279"
-			(at -3.75 0 0)
+			(at -4.37 0.07 90)
 			(layer "F.SilkS")
 			(uuid "28362891-c4c8-45c7-951f-21fbc0d28990")
 			(effects
@@ -61042,7 +61042,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C248"
-			(at 0 -1.43 90)
+			(at -0.275 -1.455 90)
 			(layer "F.SilkS")
 			(uuid "aeef7e29-957b-46c5-bd84-bbe823694f74")
 			(effects
@@ -61453,7 +61453,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C274"
-			(at 0 -1.43 90)
+			(at -0.2925 -1.43 90)
 			(layer "F.SilkS")
 			(uuid "f0c960df-7e6b-40ef-9965-8dcb69a68ff4")
 			(effects
@@ -61594,7 +61594,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C270"
-			(at 0 -1.43 90)
+			(at -0.155 -1.425 90)
 			(layer "F.SilkS")
 			(uuid "ce7e18f3-7fd8-4716-9be7-1c370733fe9d")
 			(effects
@@ -62416,7 +62416,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C224"
-			(at 0 -1.43 90)
+			(at -0.275 -1.455 90)
 			(layer "F.SilkS")
 			(uuid "45c121ae-78d8-478b-9027-6801e5c2a4e2")
 			(effects
@@ -63367,7 +63367,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D187"
-			(at -3.25 0 0)
+			(at -4.77 -0.985 0)
 			(layer "F.SilkS")
 			(uuid "e6f2da4e-bd60-4462-aa32-55822d9b04d3")
 			(effects
@@ -64177,7 +64177,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D167"
-			(at -4.37 -0.845 0)
+			(at -4.875 -0.89 0)
 			(layer "F.SilkS")
 			(uuid "6952ced9-de78-4434-bfc0-59aa20de7153")
 			(effects
@@ -64729,7 +64729,7 @@
 		(descr "Mounting Hole 2.2mm, M2, no annular, generated by kicad-footprint-generator mountinghole.py")
 		(tags "mountinghole M2")
 		(property "Reference" "H4"
-			(at 0 -3.15 0)
+			(at -1.185 -3.19 0)
 			(layer "F.SilkS")
 			(uuid "0193f608-3c82-412c-a94e-3d5ff8d22f5d")
 			(effects
@@ -65368,7 +65368,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D278"
-			(at -3.275 0 0)
+			(at -4.41 -0.025 90)
 			(layer "F.SilkS")
 			(uuid "771ee6ac-c45e-4174-86ca-07a20e4b3711")
 			(effects
@@ -65908,7 +65908,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D166"
-			(at -4.37 -0.845 0)
+			(at -4.875 -0.89 0)
 			(layer "F.SilkS")
 			(uuid "b1b9fd95-d7f1-462b-acb1-d67a5e8a077e")
 			(effects
@@ -66178,7 +66178,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C189"
-			(at -0.15 1.395 90)
+			(at -0.4 1.465 90)
 			(layer "F.SilkS")
 			(uuid "3dd979d8-478e-43ef-8aec-04b651303d99")
 			(effects
@@ -66742,7 +66742,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D169"
-			(at -3.775 0 0)
+			(at -4.795 -1.345 0)
 			(layer "F.SilkS")
 			(uuid "e951719c-f4a5-4b14-88cb-11b4924253e0")
 			(effects
@@ -67012,7 +67012,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D208"
-			(at -3.3 0 0)
+			(at -4.815 -1.24 0)
 			(layer "F.SilkS")
 			(uuid "ae5b5d51-0909-4cf2-a106-c78cf36cde07")
 			(effects
@@ -67423,7 +67423,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C170"
-			(at 0 -1.43 90)
+			(at -0.215 -1.43 90)
 			(layer "F.SilkS")
 			(uuid "e6c1b83b-d73d-4fb3-abe5-e631ed203432")
 			(effects
@@ -67564,7 +67564,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D190"
-			(at -3.3 0 0)
+			(at -4.82 -0.985 0)
 			(layer "F.SilkS")
 			(uuid "77247f31-1c21-4cbc-8b70-125b15658400")
 			(effects
@@ -68104,7 +68104,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C266"
-			(at 0 -1.43 90)
+			(at -0.245 -1.445 90)
 			(layer "F.SilkS")
 			(uuid "c417661d-2e7e-49c9-bf0e-51dd843ddd23")
 			(effects
@@ -68386,7 +68386,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D263"
-			(at -3.3 0 0)
+			(at -4.86 -1.2275 0)
 			(layer "F.SilkS")
 			(uuid "031d5757-3207-45e0-8902-b335f63f99e5")
 			(effects
@@ -68938,7 +68938,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C185"
-			(at -0.15 1.395 90)
+			(at -0.27 1.435 90)
 			(layer "F.SilkS")
 			(uuid "9f40cba0-e4be-4e12-af35-673f84cf042d")
 			(effects
@@ -69079,7 +69079,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D218"
-			(at -3.275 0 0)
+			(at -4.76 -1.4575 0)
 			(layer "F.SilkS")
 			(uuid "4dc55a9f-8709-4728-a2b3-ad2eb12dcf63")
 			(effects
@@ -69349,7 +69349,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D247"
-			(at -3.775 0 0)
+			(at -3.68 -1.2225 90)
 			(layer "F.SilkS")
 			(uuid "c0364eea-3005-4fcd-b57d-7153e847de66")
 			(effects
@@ -70042,7 +70042,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D160"
-			(at -4.37 -0.845 0)
+			(at -4.875 -0.89 0)
 			(layer "F.SilkS")
 			(uuid "980032aa-6893-43f2-90d0-80463ba1b696")
 			(effects
@@ -71146,7 +71146,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D152"
-			(at -4.32 -0.845 0)
+			(at -4.825 -0.89 0)
 			(layer "F.SilkS")
 			(uuid "e9a235bf-61bb-4d2e-a004-c6e0fdbdc5c3")
 			(effects
@@ -71416,7 +71416,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D173"
-			(at -3.775 0 0)
+			(at -4.795 -1.345 0)
 			(layer "F.SilkS")
 			(uuid "df277441-cf32-4b57-a9e9-7678dac0f02f")
 			(effects
@@ -73483,7 +73483,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D191"
-			(at -3.3 0 0)
+			(at -4.82 -0.985 0)
 			(layer "F.SilkS")
 			(uuid "16a4d24c-028d-4ba4-aa55-a9048f89ece1")
 			(effects
@@ -74446,7 +74446,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C255"
-			(at -0.15 1.395 90)
+			(at -0.3525 1.405 90)
 			(layer "F.SilkS")
 			(uuid "7125699b-5362-41c0-a53e-86928f20ca59")
 			(effects
@@ -75139,7 +75139,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D276"
-			(at -3.275 0 0)
+			(at -4.44 0.03 90)
 			(layer "F.SilkS")
 			(uuid "0c2b41be-3ea7-4670-92aa-f8b7703b515b")
 			(effects
@@ -75832,7 +75832,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D235"
-			(at -3.25 0 0)
+			(at -4.735 -1.3025 0)
 			(layer "F.SilkS")
 			(uuid "df37210e-c1af-4208-9343-b8c39d823a0a")
 			(effects
@@ -76372,7 +76372,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D139"
-			(at -4.905 -1.375 0)
+			(at -4.475 -0.05 90)
 			(layer "F.SilkS")
 			(uuid "638797fd-2855-4db1-8f4e-7ea9b7ec54ad")
 			(effects
@@ -77605,7 +77605,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D188"
-			(at -3.3 0 0)
+			(at -4.82 -0.985 0)
 			(layer "F.SilkS")
 			(uuid "1afbb831-cf5a-4ba2-864d-3c3681999ebf")
 			(effects
@@ -79348,7 +79348,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D121"
-			(at -5.43 -1.375 0)
+			(at -4.455 0.045 90)
 			(layer "F.SilkS")
 			(uuid "ac4e14e2-de30-4016-b1cf-91d860527aa1")
 			(effects
@@ -79618,7 +79618,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D264"
-			(at -3.3 0 0)
+			(at -4.86 -1.2275 0)
 			(layer "F.SilkS")
 			(uuid "9085758b-b29e-4cc3-b6b2-9bd1aa60bc38")
 			(effects
@@ -80299,7 +80299,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D284"
-			(at -3.3 0 0)
+			(at -4.41 -0.045 90)
 			(layer "F.SilkS")
 			(uuid "23455ec8-81c2-49c5-bef1-eda23d7e4ff2")
 			(effects
@@ -81262,7 +81262,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C100"
-			(at 0 1.4 90)
+			(at 0.1925 1.395 90)
 			(layer "F.SilkS")
 			(uuid "fda44b39-80a7-4e6a-9201-281f242aa329")
 			(effects
@@ -82096,7 +82096,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D200"
-			(at -3.25 0 0)
+			(at -4.765 -1.24 0)
 			(layer "F.SilkS")
 			(uuid "a4cf6d96-a6c4-48ea-aaa6-8f5d12f8c518")
 			(effects
@@ -82507,7 +82507,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D245"
-			(at -3.775 0 0)
+			(at -4.79 -1.2225 0)
 			(layer "F.SilkS")
 			(uuid "975454a6-12dc-48cc-8ff1-a47b5e2b250d")
 			(effects
@@ -83188,7 +83188,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C285"
-			(at -0.15 1.395 90)
+			(at -0.4 1.465 90)
 			(layer "F.SilkS")
 			(uuid "7fa0c2e2-e4f2-47a0-9dc8-84f489f33882")
 			(effects
@@ -83329,7 +83329,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D127"
-			(at -5.43 -1.375 0)
+			(at -4.535 -0.18 90)
 			(layer "F.SilkS")
 			(uuid "343555fe-4cf4-4614-b622-1e8a1bf7dedb")
 			(effects
@@ -84022,7 +84022,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D231"
-			(at -3.75 0 0)
+			(at -4.73 -1.3025 0)
 			(layer "F.SilkS")
 			(uuid "cd640fd9-ee0f-4b74-99a3-9f92fe688f14")
 			(effects
@@ -84562,7 +84562,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D154"
-			(at -4.32 -0.845 0)
+			(at -4.825 -0.89 0)
 			(layer "F.SilkS")
 			(uuid "5cb273b2-c37d-4368-b12d-de2a3532b16a")
 			(effects
@@ -84832,7 +84832,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D237"
-			(at -3.3 0 0)
+			(at -4.785 -1.3025 0)
 			(layer "F.SilkS")
 			(uuid "c53f3e4f-ffd9-48b0-b2a5-191fe52db06a")
 			(effects
@@ -85372,7 +85372,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D240"
-			(at -3.3 0 0)
+			(at -4.785 -1.3025 0)
 			(layer "F.SilkS")
 			(uuid "d0144908-a392-409b-9ee6-ad8d6f622d51")
 			(effects
@@ -87169,7 +87169,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D196"
-			(at -3.275 0 0)
+			(at -4.79 -1.24 0)
 			(layer "F.SilkS")
 			(uuid "8cf7e4c6-2dbf-4599-ac5e-d5332fa3b1af")
 			(effects
@@ -87439,7 +87439,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D270"
-			(at -3.275 0 0)
+			(at -4.37 -0.01 90)
 			(layer "F.SilkS")
 			(uuid "b9f1a4e2-d87a-4941-bfc4-25da7c27e8f3")
 			(effects
@@ -88942,7 +88942,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D261"
-			(at -3.3 0 0)
+			(at -4.86 -1.2275 0)
 			(layer "F.SilkS")
 			(uuid "2c5f5044-45e8-4e2f-828c-0b0f5ad95cff")
 			(effects
@@ -89353,7 +89353,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D246"
-			(at -3.275 0 0)
+			(at -3.77 -1.1975 90)
 			(layer "F.SilkS")
 			(uuid "77150338-49b5-4c3e-998f-ad7ab46b5178")
 			(effects
@@ -90304,7 +90304,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D256"
-			(at -3.3 0 0)
+			(at -4.86 -1.2275 0)
 			(layer "F.SilkS")
 			(uuid "74148438-2e2c-4a71-aae2-32198d318b0b")
 			(effects
@@ -90574,7 +90574,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D205"
-			(at -3.75 0 0)
+			(at -4.84 -0.955 0)
 			(layer "F.SilkS")
 			(uuid "a54cc4b4-e325-461a-ab97-67e76a3a3ca9")
 			(effects
@@ -91384,7 +91384,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D123"
-			(at -5.43 -1.375 0)
+			(at -4.505 -0.18 90)
 			(layer "F.SilkS")
 			(uuid "708c0327-c632-491a-a59f-482addae3117")
 			(effects
@@ -92911,7 +92911,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D179"
-			(at -3.75 0 0)
+			(at -4.77 -1.345 0)
 			(layer "F.SilkS")
 			(uuid "9a9c4e75-b730-4461-aaa4-ea47759c65e3")
 			(effects
@@ -93862,7 +93862,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D163"
-			(at -4.32 -0.845 0)
+			(at -4.825 -0.89 0)
 			(layer "F.SilkS")
 			(uuid "fbfb8886-5b2f-4156-858c-ec28026402d7")
 			(effects
@@ -95095,7 +95095,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D258"
-			(at -3.3 0 0)
+			(at -4.86 -1.2275 0)
 			(layer "F.SilkS")
 			(uuid "53a3697e-649a-4ff5-a08f-174983d40579")
 			(effects
@@ -95365,7 +95365,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C194"
-			(at 0 -1.43 90)
+			(at -0.245 -1.455 90)
 			(layer "F.SilkS")
 			(uuid "70edd7bb-32e5-4b0f-a0ce-a85194cdfe56")
 			(effects
@@ -95506,7 +95506,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D232"
-			(at -3.3 0 0)
+			(at -4.785 -1.4575 0)
 			(layer "F.SilkS")
 			(uuid "875757fc-1616-4292-adf2-e548160dd903")
 			(effects
@@ -95917,7 +95917,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D172"
-			(at -3.275 0 0)
+			(at -4.795 -0.985 0)
 			(layer "F.SilkS")
 			(uuid "f05095fe-8504-4cf7-84a0-e9fb0fa628f2")
 			(effects
@@ -97420,7 +97420,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D288"
-			(at -3.3 0 0)
+			(at -4.44 0.045 90)
 			(layer "F.SilkS")
 			(uuid "66fe9d35-b402-4b1d-b97f-8fcb0668f918")
 			(effects
@@ -97690,7 +97690,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C246"
-			(at 0 -1.43 90)
+			(at -0.205 -1.43 90)
 			(layer "F.SilkS")
 			(uuid "0ecc094d-a3e0-440d-9cff-a8bd5cbe0411")
 			(effects
@@ -98101,7 +98101,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D243"
-			(at -3.775 0 0)
+			(at -4.79 -1.2225 0)
 			(layer "F.SilkS")
 			(uuid "d60e7374-120e-4759-92af-9ba4b72ff8ae")
 			(effects
@@ -99745,7 +99745,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D168"
-			(at -4.37 -0.845 0)
+			(at -4.875 -0.89 0)
 			(layer "F.SilkS")
 			(uuid "46fb6f52-0886-44e2-9ab1-9fd98cd0db6b")
 			(effects
@@ -100156,7 +100156,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D223"
-			(at -3.775 0 0)
+			(at -3.655 -1.1875 90)
 			(layer "F.SilkS")
 			(uuid "5fd6ad04-8faa-43db-9b22-c034cd4ec26e")
 			(effects
@@ -100426,7 +100426,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C244"
-			(at 0 -1.43 90)
+			(at -0.1925 -1.425 90)
 			(layer "F.SilkS")
 			(uuid "8fb5bb8c-1b3e-48d0-88fe-cd066ca3b4ae")
 			(effects
@@ -100708,7 +100708,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D137"
-			(at -5.43 -1.375 0)
+			(at -4.535 -0.665 90)
 			(layer "F.SilkS")
 			(uuid "f08c7e33-51ec-4826-a143-286a7d5119d3")
 			(effects
@@ -100978,7 +100978,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D236"
-			(at -3.3 0 0)
+			(at -4.785 -1.3025 0)
 			(layer "F.SilkS")
 			(uuid "d1218f91-ffc9-4a6d-9b1f-dde311cdb77d")
 			(effects
@@ -101248,7 +101248,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D150"
-			(at -4.345 -0.845 0)
+			(at -4.85 -0.89 0)
 			(layer "F.SilkS")
 			(uuid "cc1e7707-4e93-48c7-b63c-078d3dcd00dc")
 			(effects
@@ -102622,7 +102622,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D259"
-			(at -3.25 0 0)
+			(at -4.81 -1.2275 0)
 			(layer "F.SilkS")
 			(uuid "4301a72c-c0de-4359-91bf-864899527b40")
 			(effects
@@ -102892,7 +102892,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D227"
-			(at -3.75 0 0)
+			(at -4.73 -1.3025 0)
 			(layer "F.SilkS")
 			(uuid "defbfa6c-40c5-4732-b48e-b128909eb551")
 			(effects
@@ -103162,7 +103162,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D141"
-			(at -4.955 -1.375 0)
+			(at -4.395 -0.095 90)
 			(layer "F.SilkS")
 			(uuid "12f709f8-6f01-4ba3-87ba-90b2c92a14ee")
 			(effects
@@ -103843,7 +103843,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D216"
-			(at -3.3 0 0)
+			(at -4.815 -1.24 0)
 			(layer "F.SilkS")
 			(uuid "b86d4cff-35b0-4265-b311-41aabd7de2c2")
 			(effects
@@ -104254,7 +104254,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C268"
-			(at 0 -1.43 90)
+			(at -0.1925 -1.425 90)
 			(layer "F.SilkS")
 			(uuid "58e736f1-144e-44b7-8ba2-e048e6bb3a37")
 			(effects
@@ -104395,7 +104395,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D183"
-			(at -3.75 0 0)
+			(at -4.77 -1.345 0)
 			(layer "F.SilkS")
 			(uuid "b44dde6a-038c-4ece-8007-68bbfe0390d3")
 			(effects
@@ -104665,7 +104665,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D252"
-			(at -3.275 0 0)
+			(at -4.835 -1.2275 0)
 			(layer "F.SilkS")
 			(uuid "06922865-1467-41aa-96d8-df453be2a5d9")
 			(effects
@@ -104935,7 +104935,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D122"
-			(at -4.93 -1.375 0)
+			(at -4.435 -0.2 90)
 			(layer "F.SilkS")
 			(uuid "e3496c34-225b-4608-a4ed-a8237b3c0ec5")
 			(effects
@@ -105346,7 +105346,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C159"
-			(at -0.15 1.395 90)
+			(at -0.3525 1.405 90)
 			(layer "F.SilkS")
 			(uuid "ee6184e1-dddf-465e-bffe-083808b48ad7")
 			(effects
@@ -106039,7 +106039,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C165"
-			(at -0.15 1.395 90)
+			(at -0.4 1.465 90)
 			(layer "F.SilkS")
 			(uuid "e0c550e7-1848-49ec-8be4-98b81ed09849")
 			(effects
@@ -106180,7 +106180,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D203"
-			(at -3.75 0 0)
+			(at -4.84 -0.955 0)
 			(layer "F.SilkS")
 			(uuid "24289749-1a96-4ed3-8454-c104c29b2984")
 			(effects
@@ -106720,7 +106720,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D185"
-			(at -3.775 0 0)
+			(at -4.795 -1.345 0)
 			(layer "F.SilkS")
 			(uuid "449c0cc3-f6c7-43b9-b624-ea64e2aca50c")
 			(effects
@@ -107401,7 +107401,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C250"
-			(at 0 -1.43 90)
+			(at -0.2925 -1.43 90)
 			(layer "F.SilkS")
 			(uuid "18e706f1-dd5a-41ee-90cb-ab262be95c3e")
 			(effects
@@ -107824,7 +107824,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D219"
-			(at -3.775 0 0)
+			(at -4.755 -1.3025 0)
 			(layer "F.SilkS")
 			(uuid "d0642b9f-c27f-4daf-9a03-0e80b67f4341")
 			(effects
@@ -108916,7 +108916,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D222"
-			(at -3.275 0 0)
+			(at -3.635 -1.2175 90)
 			(layer "F.SilkS")
 			(uuid "62db6be5-e803-4e26-b4da-4309952e3b90")
 			(effects
@@ -109186,7 +109186,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D197"
-			(at -3.775 0 0)
+			(at -4.865 -0.955 0)
 			(layer "F.SilkS")
 			(uuid "fabf84dd-c071-4f0f-a395-027ba397e8fc")
 			(effects
@@ -109456,7 +109456,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D204"
-			(at -3.275 0 0)
+			(at -4.79 -1.24 0)
 			(layer "F.SilkS")
 			(uuid "f3092323-0748-47c3-b8fb-d7d5c91f1262")
 			(effects
@@ -109996,7 +109996,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C154"
-			(at 0 -1.43 90)
+			(at -0.2925 -1.43 90)
 			(layer "F.SilkS")
 			(uuid "c4c864a3-ca63-4a64-862c-c3a00b792234")
 			(effects
@@ -110560,7 +110560,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C180"
-			(at 0 -1.43 90)
+			(at -0.255 -1.44 90)
 			(layer "F.SilkS")
 			(uuid "d9c9d86c-7089-4bde-9ba2-ae582b85b68a")
 			(effects
@@ -110701,7 +110701,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D146"
-			(at -4.345 -0.845 0)
+			(at -4.85 -0.89 0)
 			(layer "F.SilkS")
 			(uuid "ca184eac-0bfd-4f60-b53c-f3d0df47018c")
 			(effects
@@ -111241,7 +111241,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D239"
-			(at -3.3 0 0)
+			(at -4.785 -1.3025 0)
 			(layer "F.SilkS")
 			(uuid "d8af1cdc-c11d-4b16-be99-b5b0a06c2f13")
 			(effects
@@ -111511,7 +111511,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C124"
-			(at 0 1.4 90)
+			(at 0.1925 1.395 90)
 			(layer "F.SilkS")
 			(uuid "a9cffc16-7269-48ff-91d8-49f092e83a70")
 			(effects
@@ -111793,7 +111793,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D275"
-			(at -3.75 0 0)
+			(at -4.39 -0.03 90)
 			(layer "F.SilkS")
 			(uuid "465222ea-9dc2-486b-aec4-9e590bee6c3c")
 			(effects
@@ -112204,7 +112204,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D267"
-			(at -3.775 0 0)
+			(at -4.39 -0.03 90)
 			(layer "F.SilkS")
 			(uuid "4b72a519-4f6f-4146-8aa4-9924e9f3b7d9")
 			(effects
@@ -112474,7 +112474,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C253"
-			(at -0.15 1.395 90)
+			(at -0.4975 1.43 90)
 			(layer "F.SilkS")
 			(uuid "7e475c5f-9f10-48bf-b451-9aa092d41b42")
 			(effects
@@ -112615,7 +112615,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D238"
-			(at -3.3 0 0)
+			(at -4.785 -1.3025 0)
 			(layer "F.SilkS")
 			(uuid "d37a7e94-31ad-4049-9a81-14becab6d790")
 			(effects
@@ -113296,7 +113296,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D229"
-			(at -3.75 0 0)
+			(at -4.73 -1.3025 0)
 			(layer "F.SilkS")
 			(uuid "8fad3d99-927f-4151-bdee-b45686bba5d7")
 			(effects
@@ -115069,7 +115069,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D165"
-			(at -4.37 -0.845 0)
+			(at -4.875 -0.89 0)
 			(layer "F.SilkS")
 			(uuid "7dcebb0f-2ef9-4d97-8762-3c8dd023589a")
 			(effects
@@ -115480,7 +115480,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D130"
-			(at -4.905 -1.375 0)
+			(at -4.435 -0.06 90)
 			(layer "F.SilkS")
 			(uuid "27faef0c-6cc0-4bfe-bc7d-584cbe9dc519")
 			(effects
@@ -115750,7 +115750,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D249"
-			(at -3.775 0 0)
+			(at -4.79 -1.2225 0)
 			(layer "F.SilkS")
 			(uuid "95cead94-580f-4e97-9bf7-06f8fcfa3cc3")
 			(effects
@@ -116020,7 +116020,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C139"
-			(at 0.15 -1.425 90)
+			(at 0.3 -1.415 90)
 			(layer "F.SilkS")
 			(uuid "4d98ee1c-c2f1-4332-a9b6-9a14db78a84b")
 			(effects
@@ -116713,7 +116713,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D176"
-			(at -3.25 0 0)
+			(at -4.77 -0.985 0)
 			(layer "F.SilkS")
 			(uuid "85fbe381-c86e-40ff-a933-a852f30e21e7")
 			(effects
@@ -117547,7 +117547,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D206"
-			(at -3.275 0 0)
+			(at -4.79 -1.24 0)
 			(layer "F.SilkS")
 			(uuid "3757151c-ca88-4941-b7f6-6560b1db6f78")
 			(effects
@@ -117817,7 +117817,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D181"
-			(at -3.75 0 0)
+			(at -4.77 -1.345 0)
 			(layer "F.SilkS")
 			(uuid "b1852578-7e09-4139-9dee-ed0355c91c2c")
 			(effects
@@ -118087,7 +118087,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D217"
-			(at -3.775 0 0)
+			(at -4.755 -1.3025 0)
 			(layer "F.SilkS")
 			(uuid "20a863a1-6716-4d21-b71b-fca8315ae54d")
 			(effects
@@ -118498,7 +118498,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D262"
-			(at -3.3 0 0)
+			(at -4.86 -1.2275 0)
 			(layer "F.SilkS")
 			(uuid "862c49ea-5fc0-4994-8346-672490ee6407")
 			(effects
@@ -118909,7 +118909,7 @@
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D265"
-			(at -3.775 0 0)
+			(at -4.37 -0.065 90)
 			(layer "F.SilkS")
 			(uuid "5e7f2f3a-6b6f-483a-bc9d-92f4df4ca626")
 			(effects
@@ -121623,7 +121623,7 @@
 		)
 	)
 	(gr_line
-		(start 195.535 156.63)
+		(start 195.535 156.14)
 		(end 195.535 51.67)
 		(stroke
 			(width 0.1)
@@ -121634,7 +121634,7 @@
 	)
 	(gr_line
 		(start 181.855 51.66)
-		(end 181.865 156.63)
+		(end 181.865 156.14)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -121643,7 +121643,7 @@
 		(uuid "3286aad6-3639-4b2d-ba3e-a0c618479a71")
 	)
 	(gr_line
-		(start 113.515 156.63)
+		(start 113.515 156.11)
 		(end 113.505 51.64)
 		(stroke
 			(width 0.1)
@@ -121653,8 +121653,18 @@
 		(uuid "5184a4f7-8914-4a83-b5a3-7c865e97c267")
 	)
 	(gr_line
+		(start 99.83 66.69)
+		(end 99.83 56.94)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5acdd7e1-3b73-4cee-b517-de172c9d033e")
+	)
+	(gr_line
 		(start 127.185 51.66)
-		(end 127.185 156.63)
+		(end 127.185 156.14)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -121663,8 +121673,8 @@
 		(uuid "5bceaf91-7fa5-4640-a53d-b2f439ff2ab1")
 	)
 	(gr_line
-		(start 86.155 156.64)
-		(end 86.155 51.64)
+		(start 86.16 156.13)
+		(end 86.15505 56.13)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -121674,7 +121684,7 @@
 	)
 	(gr_line
 		(start 154.515 51.65)
-		(end 154.515 156.64)
+		(end 154.515 156.13)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -121683,7 +121693,7 @@
 		(uuid "7aca0835-ecff-4ad6-ab84-57c84a8b8657")
 	)
 	(gr_line
-		(start 141.835 156.64)
+		(start 141.835 156.03)
 		(end 141.835 51.65)
 		(stroke
 			(width 0.1)
@@ -121693,8 +121703,8 @@
 		(uuid "ab4df200-406d-4c94-a79f-3bf2e5a7d838")
 	)
 	(gr_line
-		(start 209.205 51.67)
-		(end 209.205 156.64)
+		(start 209.205 71.6)
+		(end 209.205 140.66)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -121703,7 +121713,7 @@
 		(uuid "ac802633-ea59-45e2-8aca-a1cdab791e79")
 	)
 	(gr_line
-		(start 222.875 156.64)
+		(start 222.86 156.14)
 		(end 222.885 51.68)
 		(stroke
 			(width 0.1)
@@ -121713,14 +121723,44 @@
 		(uuid "df07dc3c-bcce-48ea-a361-2f4067bede3f")
 	)
 	(gr_line
-		(start 99.835 51.64)
-		(end 99.835 156.63)
+		(start 209.205 51.67)
+		(end 209.205 66.69)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e4c2492a-53f5-4307-87f2-8099b78e56c7")
+	)
+	(gr_line
+		(start 99.830705 145.72)
+		(end 99.830705 156.13)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e626deb5-0418-466b-b368-6a3f2da43e85")
+	)
+	(gr_line
+		(start 99.835 71.7)
+		(end 99.830705 140.68)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
 		(layer "F.SilkS")
 		(uuid "eb7fb0d7-e9f5-48de-97c5-4f8cd74faf85")
+	)
+	(gr_line
+		(start 209.25 145.65)
+		(end 209.25 156.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "fd566222-4912-4031-98c1-dd27c310344f")
 	)
 	(gr_line
 		(start 86.16 156.635)
@@ -141401,36 +141441,12 @@
 		(uuid "d1e371e0-bea7-4780-999f-a8029ec19f69")
 	)
 	(segment
-		(start 118.9605 156.034)
+		(start 119.0645 155.93)
 		(end 120.075 154.9195)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 53)
-		(uuid "06c809ee-1979-403f-9ed9-80b9032a6876")
-	)
-	(segment
-		(start 104.945 152.8625)
-		(end 108.1165 156.034)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 53)
-		(uuid "368ea8ff-8c37-4be8-a77d-0a866d3ffba8")
-	)
-	(segment
-		(start 120.075 154.9195)
-		(end 120.075 154.3025)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 53)
-		(uuid "57e08304-324a-4f55-902b-82edb77f7c75")
-	)
-	(segment
-		(start 108.1165 156.034)
-		(end 118.9605 156.034)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 53)
-		(uuid "cb4c3d79-c6ba-4318-80a5-7f3ef829788c")
+		(uuid "21a787e9-7147-4626-8d5b-1284e05bd66d")
 	)
 	(segment
 		(start 120.075 154.3025)
@@ -141438,7 +141454,31 @@
 		(width 0.2)
 		(layer "F.Cu")
 		(net 53)
-		(uuid "f9adfe77-5cbc-41f0-a376-1ab5fcc1ef58")
+		(uuid "571f1c5c-fde5-4609-ad3f-202d9cd22421")
+	)
+	(segment
+		(start 108.0125 155.93)
+		(end 119.0645 155.93)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 53)
+		(uuid "7690aa8a-7455-4650-8ad1-6ee5bc32eff7")
+	)
+	(segment
+		(start 120.075 154.9195)
+		(end 120.075 154.3025)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 53)
+		(uuid "e006a068-3e36-4908-944e-123076ffcdc8")
+	)
+	(segment
+		(start 104.945 152.8625)
+		(end 108.0125 155.93)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 53)
+		(uuid "e7b82e55-27ef-4721-8c7e-bc176348882e")
 	)
 	(segment
 		(start 105.295 148.725)
@@ -142617,44 +142657,28 @@
 		(uuid "aa334825-4157-45d4-82bb-45f93cf9f222")
 	)
 	(segment
-		(start 147.101 156.034)
-		(end 136.034 156.034)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 101)
-		(uuid "47630c33-6262-4662-bd9f-a403bddddd7e")
-	)
-	(segment
-		(start 147.975 153.99)
-		(end 147.975 155.16)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 101)
-		(uuid "4eb62eeb-3076-4499-bf72-92f47b6c85c8")
-	)
-	(segment
-		(start 136.034 156.034)
-		(end 132.775 152.775)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 101)
-		(uuid "a496e16a-1e4c-4a6a-a296-41c0fb1d0e2f")
-	)
-	(segment
-		(start 147.975 155.16)
-		(end 147.101 156.034)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 101)
-		(uuid "df4ab81c-317e-48db-bbad-0700cc35c271")
-	)
-	(segment
 		(start 146.615 152.63)
 		(end 147.975 153.99)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 101)
-		(uuid "e0e59b9b-c1be-4a62-8125-78c123413bbb")
+		(uuid "1e7c7e68-5ce4-447b-b685-7f0b0ae2b2c1")
+	)
+	(segment
+		(start 147.215 155.92)
+		(end 135.92 155.92)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 101)
+		(uuid "1ed9ec1f-b064-4d28-9c6a-bdca2071f9d7")
+	)
+	(segment
+		(start 147.975 155.16)
+		(end 147.215 155.92)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 101)
+		(uuid "51fc5fc0-69b5-41de-adf2-0fcf93f2f4aa")
 	)
 	(segment
 		(start 146.425 152.63)
@@ -142662,7 +142686,23 @@
 		(width 0.2)
 		(layer "F.Cu")
 		(net 101)
-		(uuid "ff5588f9-e228-4f44-904b-65e047da1bc0")
+		(uuid "5a6dc35a-432f-45aa-86d0-da972411d9b7")
+	)
+	(segment
+		(start 135.92 155.92)
+		(end 132.775 152.775)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 101)
+		(uuid "9385bccf-71a0-445d-b0bc-207cf0fb7745")
+	)
+	(segment
+		(start 147.975 153.99)
+		(end 147.975 155.16)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 101)
+		(uuid "96a7f1ee-daa3-43c7-96f1-7a5c11871130")
 	)
 	(segment
 		(start 133.125 148.6375)
